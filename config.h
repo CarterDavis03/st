@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "JetBrains Mono Nerd Font:pixelsize=20:antialias=true:autohint=true";
-static char *font2[] = { ""  };
+static char *font2[] = { "Noto Color Emoji:pixelsize=20:antialias=true:autohint=true"  };
 static int borderpx = 2;
 
 /*
@@ -472,3 +472,4 @@ static char ascii_printable[] =
 	" !\"#$%&'()*+,-./0123456789:;<=>?"
 	"@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_"
 	"`abcdefghijklmnopqrstuvwxyz{|}~";
+
